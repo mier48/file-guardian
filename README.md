@@ -9,7 +9,7 @@
 
 ---
 
-## Características
+## 🛠️ Características
 
 - **Organización Inteligente**: Clasifica automáticamente los archivos en carpetas según reglas configurables.
 - **Detección de Duplicados**: Encuentra y gestiona archivos duplicados basados en hashes.
@@ -18,7 +18,7 @@
 
 ---
 
-## Instalación
+## 🧩 Instalación
 
 1. Clona el repositorio:
    ```bash
@@ -40,7 +40,7 @@
 
 ---
 
-## Uso
+## 🚀 Uso
 
 1. Ejecuta la aplicación principal:
    ```bash
@@ -52,7 +52,7 @@
 
 ---
 
-## Tests
+## 🧪 Tests
 
 Ejecuta las pruebas unitarias:
 ```bash
@@ -61,7 +61,7 @@ pytest tests/
 
 ---
 
-## Licencia
+## 📜 Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
