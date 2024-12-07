@@ -19,7 +19,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/FileGuardian.git
+   git clone https://github.com/mier48/file-guardian
    cd FileGuardian
    ```
 
