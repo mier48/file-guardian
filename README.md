@@ -3,8 +3,6 @@
 [![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](./README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-## Resumen
-
 **FileGuardian** es una herramienta profesional para la organización y gestión de archivos en tiempo real. Detecta duplicados, aplica reglas de organización configurables y permite monitorear carpetas automáticamente mediante una interfaz gráfica sencilla y eficiente.
 
 ---
