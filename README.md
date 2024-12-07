@@ -1,4 +1,4 @@
-# FileGuardian
+# File Guardian
 
 [![Version: 1.0](https://img.shields.io/badge/Version-1.0-blue.svg)](./README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
