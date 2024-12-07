@@ -20,7 +20,7 @@
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/mier48/file-guardian
-   cd FileGuardian
+   cd file-guardian
    ```
 
 2. Crea y activa un entorno virtual:
